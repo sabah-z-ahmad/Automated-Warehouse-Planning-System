@@ -31,8 +31,8 @@ class Window:
         self.__grid_w = None
         self.__grid_h = None
 
-        self.____grid_centered_panel_pos_x = None
-        self.____grid_centered_panel_pos_y = None
+        self.__grid_centered_panel_pos_x = None
+        self.__grid_centered_panel_pos_y = None
 
         ###########################################################
         #                  pygame Initialization

@@ -1,0 +1,28 @@
+{
+    "defaults":
+    {
+        "colours":
+        {
+            "normal_bg": "#fb9e91",
+            "hovered_bg": "#fbda91",
+            "disabled_bg": "#cb6e61",
+            "selected_bg": "#fb0091",
+            "dark_bg": "#fb8691",
+            "disabled_dark_bg": "#db6671",
+            "normal_text": "#202020",
+            "hovered_text": "#303030",
+            "selected_text": "#404040",
+            "disabled_text": "#000000",
+            "link_text": "#0000EE",
+            "link_hover": "#2020FF",
+            "link_selected": "#551A8B",
+            "text_shadow": "#777777",
+            "normal_border": "#00ff55",
+            "hovered_border": "#ff5500",
+            "disabled_border": "#Df9285",
+            "selected_border": "#ff9900",
+            "filled_bar": "#f4251b",
+            "unfilled_bar": "#CCCCCC"
+        }
+    }
+}
